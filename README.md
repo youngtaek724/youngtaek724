@@ -1,10 +1,11 @@
 ![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
 
+# About Me
 
+안녕하세요 youngtaek724의 프로필입니다
 
 # Table of contents
 
-- [About Me](#About-Me)
 - [Markdown Badges](#markdown-badges)
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
@@ -54,9 +55,6 @@
     - [Work/Jobs](#workjobs)
     </details>
 
-# About Me
-안녕하세요 youngtaek724의 프로필입니다
-
 # Markdown Badges
 
 Add badges to your Profile and Projects.
@@ -66,9 +64,16 @@ Add badges to your Profile and Projects.
 To use a badge:
 
 - Via Github
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&)
+
   1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
   1. Enter the name of the badge you need.
   1. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
+
 - You could also visit the live site at [ileriayo.github.io/markdown-badges/](https://ileriayo.github.io/markdown-badges/)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
