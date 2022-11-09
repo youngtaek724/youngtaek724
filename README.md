@@ -6,6 +6,7 @@ Add badges to your Profile and Projects.
 
 # Table of contents
 
+- [About Me](#About-Me)
 - [Markdown Badges](#markdown-badges)
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
@@ -54,6 +55,10 @@ Add badges to your Profile and Projects.
     - [Wearables](#wearables)
     - [Work/Jobs](#workjobs)
     </details>
+
+# About
+안녕하세요 자기소개 글 입니다
+
 
 # Usage
 
