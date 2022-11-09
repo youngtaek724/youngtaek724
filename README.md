@@ -58,7 +58,7 @@
 # Markdown Badges
 
 ![youngtaek724's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngtaek724&theme=dark&show_icons=true)  
-![dark][dark_repo]     
+[dark]: https://github-readme-stats.vercel.app/api?username=youngtaek724&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark 
 
 # Usage
 
