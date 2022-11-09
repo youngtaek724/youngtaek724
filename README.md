@@ -15,7 +15,8 @@
 # Markdown Badges
 
 ![youngtaek724's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngtaek724&theme=dark&show_icons=true)  
-
+pip install -r requirements.txt
+python manage.py runserver
 [![solved.ac/profile/windyvillage
 ](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
