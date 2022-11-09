@@ -58,6 +58,7 @@
 # Markdown Badges
 
 Add badges to your Profile and Projects.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?youngtaek724=anuraghazra&theme=dark&show_icons=true)
 ![monokai][monokai]
 # Usage
 
