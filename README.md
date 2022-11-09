@@ -15,21 +15,7 @@
 # Markdown Badges
 
 ![youngtaek724's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngtaek724&theme=dark&show_icons=true)  
-pip install -r requirements.txt
-python manage.py runserver
-[![solved.ac/profile/windyvillage
-](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
-
-To use a badge:
-
-- Via Github
-
-  1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
-  1. Enter the name of the badge you need.
-  1. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
-
-- You could also visit the live site at [ileriayo.github.io/markdown-badges/](https://ileriayo.github.io/markdown-badges/)
 
 # Tips
 
