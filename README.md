@@ -16,7 +16,8 @@
 
 ![youngtaek724's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngtaek724&theme=dark&show_icons=true)  
 
-
+[![solved.ac/profile/windyvillage
+](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 To use a badge:
