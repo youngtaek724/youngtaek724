@@ -1,8 +1,6 @@
 ![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
 
-# Markdown Badges
 
-Add badges to your Profile and Projects.
 
 # Table of contents
 
@@ -56,9 +54,12 @@ Add badges to your Profile and Projects.
     - [Work/Jobs](#workjobs)
     </details>
 
-# About
-안녕하세요 자기소개 글 입니다
+# About Me
+안녕하세요 youngtaek724의 프로필입니다
 
+# Markdown Badges
+
+Add badges to your Profile and Projects.
 
 # Usage
 
