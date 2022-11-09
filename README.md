@@ -4,56 +4,6 @@
 
 안녕하세요 youngtaek724의 프로필입니다  
 <br/>
-# Table of contents
-
-- [Markdown Badges](#markdown-badges)
-- [Table of contents](#table-of-contents)
-- [Usage](#usage)
-- [Tips](#tips)
-- [Contribution](#contribution)
-- [License](#license)
-- [Badges](#badges)
-
-  - <details> <summary>List of badges</summary>
-
-    - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
-    - [Blog](#-blog)
-    - [Blockchain](#-blockchain)
-    - [Browsers](#-browsers)
-    - [CD](#-cd)
-    - [CI](#-ci)
-    - [Cloud Storage](#-cloud-storage)
-    - [Cryptocurrency](#-cryptocurrency)
-    - [Databases](#-databases)
-    - [Design](#-design)
-    - [Developer/Forums](#-developerforums)
-    - [Documentation Platforms](#-documentation-platforms)
-    - [Education](#-education)
-    - [Funding](#-funding)
-    - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
-    - [Gaming](#-gaming)
-    - [Game Consoles](#%EF%B8%8F-game-consoles)
-    - [Hosting/SaaS](#-hostingsaas)
-    - [IDEs/Editors](#-ideseditors)
-    - [Languages](#-languages)
-    - [ML/DL](#%EF%B8%8F-mldl)
-    - [Music](#-music)
-    - [Office](#-office)
-    - [Operating System](#%EF%B8%8F-operating-system)
-    - [ORM](#-orm)
-    - [Other](#-other)
-    - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
-    - [Search Engines](#search-engines)
-    - [Servers](#servers)
-    - [Smartphone Brands](#smartphone-brands)
-    - [Social](#social)
-    - [Store](#store)
-    - [Streaming](#streaming)
-    - [Testing](#testing)
-    - [Version Control](#version-control)
-    - [Wearables](#wearables)
-    - [Work/Jobs](#workjobs)
-    </details>
 
 # Markdown Badges
 
