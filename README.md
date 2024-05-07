@@ -43,6 +43,18 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&)    
 
+
+
+
+# Edu
+| 교육명            | 기간                | 기관        | 내용                                                                     |
+|----------------|-------------------|-----------|------------------------------------------------------------------------|
+| Java 초급        | 2021.07 ~ 2021.08 | 그린컴퓨터아카데미 | Java 기초 언어 및 문법에 대한 교육                                                 |
+| Java 중급        | 2021.09 ~ 2021.10 | 코리아it아카데미 | Java 알고리즘 및 객체, 클레스 등에 대한 교육                                           |
+| 프론트엔드 1~6      | 2022.01 ~ 2022.06 | 코리아it아카데미 | 전반적인 프론트엔드(html, css, react)에 대한 교육 및 typeScript, nodeJS를 활용하여 소켓서버 구축 |
+| 웹개발 1~6        | 2022.07 ~ 2022.12 | 코리아it아카데미 | SpringBoot를 활용하여 웹개발 및 팀프로젝트 진행                                        |
+| JPA SpringBoot | 2023.06 ~ 2023.08  | 코리아it아카데미 | JPA에 대한 기초적인 교육 및 팀프로젝트 진행                                             |
+
 <!--
 # Markdown Badges
 
